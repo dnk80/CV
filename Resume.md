@@ -6,6 +6,8 @@
 - **Email:** nzamkovoy@gmail.com
 - **Location:** Largo, FL
 
+---
+
 ### Summary
 DevOps engineer with 6+ years of experience in CI/CD systems, IaC, monitoring, security policies, work with Docker, Kubernetes, Helm charts, Istio, and configure Ingress, Load Balancers, and TLS/SSL Certificates. Successfully reduced infrastructure costs and improved efficiency. Background in networking allows implementation of flexible, elegant solutions. Expertise in Cloud helps speed up deployment of necessary infrastructure and components.
 
@@ -125,5 +127,3 @@ DevOps engineer with 6+ years of experience in CI/CD systems, IaC, monitoring, s
 - [Megogo](https://megogo.net/)
 
 ---
-
-This markdown format retains the structure and details of the original PDF content.
