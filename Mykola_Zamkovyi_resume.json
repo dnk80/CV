@@ -1,6 +1,3 @@
-Here is the information converted to JSON format:
-
-```json
 {
   "name": "Mykola Zamkovyi",
   "contact": {
@@ -138,4 +135,4 @@ Here is the information converted to JSON format:
     "https://megogo.net/"
   ]
 }
-```
+
