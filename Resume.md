@@ -1,4 +1,3 @@
-Here's the markdown formatted version of the provided PDF content:
 
 ---
 
@@ -149,4 +148,3 @@ DevOps engineer with 6+ years of experience in CI/CD systems, IaC, monitoring, s
 
 ---
 
-This markdown format retains the structure and details of the original PDF content.
