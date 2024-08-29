@@ -142,7 +142,7 @@ DevOps engineer with 6+ years of experience in CI/CD systems, IaC, monitoring, s
 - [Duckma](http://duckma.com)
 - [Smartrr](http://smartrr.com)
 - [DataArt](https://www.dataart.com/)
-- [EPAM OSDU]([https://osduforum.org/](https://community.opengroup.org/users/mykola_zamkovyi/activity))
+- [EPAM OSDU](https://community.opengroup.org/users/mykola_zamkovyi/activity)
 - [GlobalLogic](https://www.globallogic.com/)
 - [Megogo](https://megogo.net/)
 
